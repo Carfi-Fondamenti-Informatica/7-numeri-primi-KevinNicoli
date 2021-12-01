@@ -1,4 +1,5 @@
 #include "lib.h"
+int d=2
 bool numeriprimi(int n , int d) {
     int rest=0;
     if(n>1){
